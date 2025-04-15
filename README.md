@@ -1,1 +1,2 @@
-# Hareethha25-Radio-Interferometry-and-Galactic-HI-Survey
+# Hareethha2025-Calibrated Radio Interferometry and Galactic HI
+Kinematics
